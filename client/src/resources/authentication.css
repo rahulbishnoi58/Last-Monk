@@ -1,0 +1,83 @@
+.register{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to left, #fa709a 0%, #fee140 100%);
+}
+.login{
+    height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to right, #fa709a 0%, #fee140 100%);
+}
+.lottie{
+    height:400px;
+}
+
+.register input{
+    background-color: transparent;
+    border: none;
+    border-bottom: 1px solid rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+}
+
+input:focus{
+   outline: none !important;
+   box-shadow: none !important;
+   border-bottom: 1px solid rgb(255, 255, 255) !important;
+}
+
+label , a{
+    color: rgb(255, 255, 255) !important;
+}
+
+.register h1{
+    font-size: 35px;
+    color: white;
+    font-weight: 600;
+}
+
+.secondary{
+    background-color: rgb(47, 101, 167) !important;
+    color: white !important;
+}
+
+.secondary:hover{
+    background-color: rgb(16, 16, 114) !important;
+    color: white !important;
+}
+
+.parent{
+    background-image: linear-gradient(to left, #fa709a 0%, #fee140 100%);
+}
+.parent img{
+    height: 30vh;
+    display: inline;
+    background-color: transparent;
+    border: 2px solid rgba(183, 164, 58, 0.604);
+    border-radius: 20px;
+    margin-left: 230px;
+}
+.parent .first-para{
+width: 80vh;
+font-size: 15px;
+   margin-left: 100px;
+    
+}
+.parent .second-para{
+    width: 80vh;
+    margin-left: 100px;
+}
+
+
+.lan_header{
+    background-color: #fa709a;
+    padding: 2px;
+}
+
+.parent h1{
+    padding-top: 13px;
+    padding-left: 20px;
+}

@@ -1,0 +1,30 @@
+.transactions-count{
+    box-shadow: 0 0 2px gray;
+    padding: 15px;
+    border-radius: 10px;
+    color: gray !important;
+}
+.analytics h4{
+    font-size: 25px;
+}
+.analytics h5{
+    font-size: 18px;
+}
+
+.category-card{
+    padding: 15px 30px;
+    box-shadow: 0 0 2px gray;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+/*  */
+.progress-bars{
+    text-align: center;
+    /* margin-top: 10px !important;
+    margin-bottom: 10px; */
+}
+
+.circle-style{
+    margin-top: 20px;
+}
